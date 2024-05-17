@@ -1,0 +1,2 @@
+at first remove 
+/imgs line into .gitignore file then run the code 
